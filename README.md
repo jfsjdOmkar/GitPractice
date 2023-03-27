@@ -1,1 +1,1 @@
-Github pracrice demo
+Github practice demo
